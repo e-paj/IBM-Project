@@ -1,4 +1,4 @@
-# IBM-Project
+# IBM-Project-Labs
 - Lesson 1: What is Data Science?
 - Lesson 2: Tools for Data Science
 - Lesson 3: Data Science Methodology
