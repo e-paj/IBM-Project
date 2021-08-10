@@ -9,3 +9,7 @@
 - Lesson 8: Data Visualization with Python ✔
 - Lesson 9: Machine Learning with Python
 - Lesson 10: Applied Data Science Capstone
+
+
+## Credits
+* To IBM Data Science Specialization course in Coursera
